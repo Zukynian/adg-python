@@ -69,3 +69,6 @@ print(l1)
 my_set1=set(l1)
 my_set2=set(l2)
 print(my_set1.intersection(my_set2))
+
+l4=[7, 8, 9, 2, 3, 1, 4, 10, 5, 6]
+my_sliced_l4=l4[-5:-2]
